@@ -1,1 +1,20 @@
 
+<html>
+<header>
+  <div class = "border">
+    <img
+src="https://user-images.githubusercontent.com/58752827/70672192-4aad4280-1c33-11ea-8fe5-3ab181318e14.png" alt=logo class=logo height=120 width=120></img>
+    <img src = "https://www.clipartwiki.com/clipimg/full/173-1734267_search-noun-project-search-logo-in-png.png" alt=searchbar class=logo2 height=30 width=30 top = 50>
+<nav> 
+ <ul>
+   <li><div class = "zoom"><a href "#">Home</a></li>
+   <li><div class = "zoom"><a href "#">Sports</a></li>
+   <li><div class = "zoom"><a href "#">Weather</a></li>
+   <li><div class = "zoom"><a href "#">Foreign</a></li>
+   <li><div class = "zoom"><a href "#">Entertainment</a></li>
+   <li><div class = "zoom"><a href "#">local</a></li>
+   <li><div class = "zoom"><a href "#">About Us</a></li>
+  </ul>
+  </nav>
+     <div class= "search">
+  <input type = "text" placeholder = "Search..">
